@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="anasayfabaslik1">Welcome to</string>
+    <string name="anasayfabaslik2">Apple News</string>
+    <string name="content">The best stories from the sources you love, selected just for you</string>
+    <string name="content2">Apple collects your activity in News, which is not associated with your Apple ID, in order to improve and personalize Apple News. When you turn on notifications for a channel, the channel can be associated with your Apple ID. Your device serial number may be used to check eligibility for service offers. See how your data is managed…</string>
+</resources>

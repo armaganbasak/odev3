@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Haberler</string>
+    <string name="anasayfabaslik1">Hoş geldiniz</string>
+    <string name="anasayfabaslik2">Apple Haberleri</string>
+    <string name="content">Sevdiğiniz kaynaklardan en iyi hikayeler, sadece sizin için seçildi</string>
+    <string name="content2">Apple, Apple Kimliğinizle ilişkilendirilmeyen aktivitelerinizi Newste toplar, bu da Apple Newsu iyileştirmek ve kişiselleştirmek için kullanılır. Bir kanal için bildirimleri açtığınızda, kanal Apple Kimliğinizle ilişkilendirilebilir. Cihazınızın seri numarası, hizmet tekliflerine uygunluğu kontrol etmek için kullanılabilir. Verilerinizin nasıl yönetildiğini görün…</string>
+</resources>
